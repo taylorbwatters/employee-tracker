@@ -23,7 +23,7 @@
 ![screenshot](images/screenshot.png)
 
 ## Video Link
-![screen recording](https://github.com/taylorbwatters/employee-tracker/assets/99699018/8d1e3a2e-aa59-4399-8514-dfee8399e577)
+https://github.com/taylorbwatters/employee-tracker/assets/99699018/8d1e3a2e-aa59-4399-8514-dfee8399e577
 
 
 
