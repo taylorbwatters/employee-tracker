@@ -107,7 +107,7 @@ async function main() {
                     console.log(first_name);
                     console.log(last_name);
                     console.log(updatedEmployee);
-                    
+
                     return `${first_name} ${last_name}` === updatedEmployee;
                 }) ?? {};
 
@@ -118,7 +118,7 @@ async function main() {
                 throw new Error('invalid initialAnswer: ' + initialAnswer);
         }
 
-        
+        main();
     } catch (err) {
         if (err.isTtyError) {
             console.log('Prompt can\'t be rendered in the current environment');
