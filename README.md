@@ -20,6 +20,5 @@
 * THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 ## Screenshot 
+![screenshot](images/Screenshot%202023-05-24%20at%205.19.02%20PM.png)
 
-
-## Video Link 
