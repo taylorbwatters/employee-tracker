@@ -23,4 +23,8 @@
 ![screenshot](images/screenshot.png)
 
 ## Video Link
-![video-walkthrough](images/screen_recording.mov)
+![screen recording](https://github.com/taylorbwatters/employee-tracker/assets/99699018/8d1e3a2e-aa59-4399-8514-dfee8399e577)
+
+
+
+
